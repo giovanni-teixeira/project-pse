@@ -13,7 +13,6 @@ st.set_page_config(page_title="EasyPSE - Dashboard Facilitado",
 hide_st_style = """
                 <style>
                 footer {visibility: hidden;}
-                header {visibility: hidden;}
                 </style>
                 """
 st.markdown(hide_st_style, unsafe_allow_html=True)
