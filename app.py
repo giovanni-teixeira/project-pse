@@ -12,7 +12,6 @@ st.set_page_config(page_title="EasyPSE - Dashboard Facilitado",
 
 hide_st_style = """
                 <style>
-                #MainMenu {visibility: hidden;}
                 footer {visibility: hidden;}
                 header {visibility: hidden;}
                 </style>
