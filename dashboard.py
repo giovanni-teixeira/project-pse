@@ -134,7 +134,7 @@ def dashboard():
     background-size: 100% 5%;
     background-position: left bottom;
     background-repeat: no-repeat;
-    background-attachment: local;
+    background-attachment: local, scroll;
     }}
     </style>
     """
