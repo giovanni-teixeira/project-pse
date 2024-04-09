@@ -50,7 +50,6 @@ def main():
     background-position: left bottom;
     background-repeat: no-repeat;
     background-attachment: local;
-    overflow: hidden;
     }}
     </style>
     """
